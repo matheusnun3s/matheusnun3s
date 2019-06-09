@@ -1,5 +1,5 @@
 ---
-title: Vamos!!!
+title: Material para estudos
 layout: collection
 permalink: /estudos/
 collection: estudos
